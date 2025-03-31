@@ -1,5 +1,7 @@
 # Gerliane Chaves
 
+[🇧🇷pt-br](README.pt-br.md)
+
 Researcher in robotics and intelligent systems, currently pursuing a master's degree at the Instituto Superior de Engenharia do Porto - ISEP.
 
 My experience spans both academic research, with a special focus on robotics, and professional projects in software development and electrical systems.
