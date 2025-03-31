@@ -15,9 +15,8 @@ As principais tecnologias utilizadas nos meus projetos são:
 Além de outras ferramentas como **MATLAB**, **PowerWorld** e **AutoCAD** para simulação e análise de sistemas.  
 
 ---
-
 ### **Objetivos**  
-Atualmente, busco oportunidades que me permitam continuar aplicando e expandindo meus conhecimentos em **robótica móvel**, **desenvolvimento de software** e **integração de sistemas autônomos**. Estou especialmente interessada em contribuir para projetos inovadores e desafiadores, e resolução de problemas reais para impactar positivamente por meio do desenvolvimento de tecnologias.  
+Atualmente, busco oportunidades que me permitam continuar aplicando e expandindo meus conhecimentos em **robótica móvel**, **desenvolvimento de software** e **integração de sistemas autônomos**. Estou especialmente interessada em contribuir para projetos focados na resolução de problemas reais, desenvolvendo tecnologias que gerem impacto prático e significativo. 
 
 ---
 
@@ -25,12 +24,13 @@ Atualmente, busco oportunidades que me permitam continuar aplicando e expandindo
 
 
 
-[![Lattes Badge](https://img.shields.io/badge/Lattes-Profile-blue?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/SEU-CODIGO) [![Gmail Badge](https://img.shields.io/badge/-gerliane.chaves@email.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gerliane.chaves@email.com)](mailto:gerliane.chaves@email.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/seu-github)](https://github.com/seu-github) [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://seu-portfolio.com)](https://seu-portfolio.com) <a href="https://www.linkedin.com/in/GerlianeChaves">
+[![Lattes Badge](https://img.shields.io/badge/Lattes-Profile-blue?style=flat&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/9816483745708886) [![Gmail Badge](https://img.shields.io/badge/-gerliane.schaves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gerliane.schaves@gmail.com)](mailto:gerliane.schaves@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/seu-github)](https://github.com/GerlianeChaves) [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://seu-portfolio.com)](https://seu-portfolio.com) <a href="https://www.linkedin.com/in/GerlianeChaves">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20">
 </a> 
 
-
 ---
 
-🔧 **"Transformando ideias em soluções tecnológicas para o futuro da robótica e automação."**  
-<img src="logo.jpeg" alt="Robótica" width="40">
+<div style="text-align: center;">
+  <img src="Logo_Branco_simbolo_no_meio.png" alt="Robótica" width="200">
+</div>
+# GerlianeChaves
