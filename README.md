@@ -1,6 +1,5 @@
 # Gerliane Chaves
-
-[🇧🇷pt-br](README.pt-br.md)
+[![pt-br](https://img.shields.io/badge/-pt--br-000427?style=for-the-badge)](README.pt-br.md)
 
 Researcher in robotics and intelligent systems, currently pursuing a master's degree at the Instituto Superior de Engenharia do Porto - ISEP.
 

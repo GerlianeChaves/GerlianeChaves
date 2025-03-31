@@ -1,5 +1,6 @@
 # Gerliane Chaves
-[🇺🇸en](README.md)
+[![en](https://img.shields.io/badge/en-000427?style=for-the-badge)](README.pt-br.md)
+
 
 Pesquisadora em robótica e sistemas inteligentes e atualmente mestranda pelo Instituto Superior de Engenharia do Porto - ISEP.  
 
