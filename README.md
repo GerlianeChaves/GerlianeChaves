@@ -33,4 +33,3 @@ Atualmente, busco oportunidades que me permitam continuar aplicando e expandindo
 <div style="text-align: center;">
   <img src="Logo_Branco_simbolo_no_meio.png" alt="Robótica" width="200">
 </div>
-# GerlianeChaves
